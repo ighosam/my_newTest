@@ -2,7 +2,11 @@ import React from 'react'
 
 function text() {
   return (
-    <div>Hello world</div>
+    <div>Hello world
+
+      This is the day
+    </div>
+
   )
 }
 
